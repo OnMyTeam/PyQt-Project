@@ -5,7 +5,7 @@ import sys
 ## QtWidets 모드안에 대부분 위젯이 추가되어있음 ex) 버튼,Combobox 등등..
 from PyQt5.QtWidgets import QWidget,QApplication,QMessageBox,QPushButton
 ## QCoreApplication 이벤트처리 담당
-from PyQt5 import QtCore추
+from PyQt5 import QtCore
 
 class Example1(QWidget):
     def __init__(self):
