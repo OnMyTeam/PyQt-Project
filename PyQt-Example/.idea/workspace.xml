@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57df8047-cb8a-4260-b588-85319ce87d6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exam02.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MakeWidgetAddButton.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MenuBarStatusBar.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/QtMakeForm.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,41 +19,31 @@
     <SUITE FILE_PATH="coverage/PyQt_Example$MenuBar_StatusBar.coverage" NAME="MenuBar&amp;StatusBar Coverage Results" MODIFIED="1535377323287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt_Example$Eventprocessing_MessageBox.coverage" NAME="Eventprocessing&amp;MessageBox Coverage Results" MODIFIED="1535288171679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt_Example$MakeWidget_AddButton.coverage" NAME="MakeWidget&amp;AddButton Coverage Results" MODIFIED="1535287371889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt_Example$exam02.coverage" NAME="exam02 Coverage Results" MODIFIED="1535457845895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt_Example$QtMakeForm.coverage" NAME="QtMakeForm Coverage Results" MODIFIED="1535287365126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt_Example$exam01.coverage" NAME="exam01 Coverage Results" MODIFIED="1535378711606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MakeWidgetAddButton.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py">
+      <file leaf-file-name="exam01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exam01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
               <folding>
-                <element signature="e#38#48#0" expanded="true" />
+                <element signature="e#30#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuBarStatusBar.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MenuBarStatusBar.py">
+      <file leaf-file-name="exam02.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exam02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+            <state relative-caret-position="338">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
-                <element signature="e#35#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Eventprocessing&amp;MessageBox.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding>
-                <element signature="e#37#47#0" expanded="true" />
+                <element signature="e#31#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +75,8 @@
         <option value="$PROJECT_DIR$/MakeWidgetAddButton.py" />
         <option value="$PROJECT_DIR$/MenuBar&amp;StatusBar.py" />
         <option value="$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py" />
+        <option value="$PROJECT_DIR$/exam01.py" />
+        <option value="$PROJECT_DIR$/exam02.py" />
       </list>
     </option>
   </component>
@@ -159,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MenuBar&amp;StatusBar">
+  <component name="RunManager" selected="Python.exam02">
     <configuration name="Eventprocessing&amp;MessageBox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +210,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="QtMakeForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exam01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -227,23 +223,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyQt-Example" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QtMakeForm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
+    <configuration name="exam02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyQt-Example" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.MakeWidget&amp;AddButton" />
-      <item index="1" class="java.lang.String" itemvalue="Python.QtMakeForm" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Eventprocessing&amp;MessageBox" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MenuBar&amp;StatusBar" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Eventprocessing&amp;MessageBox" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MenuBar&amp;StatusBar" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exam01" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exam02" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.MenuBar&amp;StatusBar" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Eventprocessing&amp;MessageBox" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MakeWidget&amp;AddButton" />
-        <item index="3" class="java.lang.String" itemvalue="Python.QtMakeForm" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.exam02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exam01" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MenuBar&amp;StatusBar" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Eventprocessing&amp;MessageBox" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MakeWidget&amp;AddButton" />
       </list>
     </recent_temporary>
   </component>
@@ -262,8 +278,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1859" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.320478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.320478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -316,104 +333,60 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py">
+    <entry file="file://$PROJECT_DIR$/exam01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#30#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#38#48#0" expanded="true" />
+            <element signature="e#31#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QtMakeForm.py">
+    <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py" />
+    <entry file="file://$PROJECT_DIR$/QtMakeForm.py" />
+    <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py" />
+    <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py" />
+    <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py" />
+    <entry file="file://$PROJECT_DIR$/QtMakeForm.py" />
+    <entry file="file://$PROJECT_DIR$/QtMakeForm.py" />
+    <entry file="file://$PROJECT_DIR$/MenuBarStatusBar.py" />
+    <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py" />
+    <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py" />
+    <entry file="file://$PROJECT_DIR$/exam01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
           <folding>
-            <element signature="e#37#47#0" expanded="true" />
+            <element signature="e#30#40#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#38#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#37#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QtMakeForm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QtMakeForm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/225588710/PyQt5/QtWidgets/QWidget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="613" column="12" lean-forward="true" selection-start-line="613" selection-start-column="12" selection-end-line="613" selection-end-column="12" />
+        <state relative-caret-position="192">
+          <caret line="96" column="8" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MenuBarStatusBar.py">
+    <entry file="file://$PROJECT_DIR$/exam02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+        <state relative-caret-position="338">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
-            <element signature="e#35#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeWidgetAddButton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#38#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Eventprocessing&amp;MessageBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="e#37#47#0" expanded="true" />
+            <element signature="e#31#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
