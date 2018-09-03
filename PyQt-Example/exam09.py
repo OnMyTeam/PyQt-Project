@@ -1,5 +1,5 @@
 """
-PyQt5(08. 여러가지 위젯 1/2)
+PyQt5(09. 여러가지 위젯 2/2)
 """
 import sys
 from PyQt5.QtWidgets import QWidget, QApplication, QHBoxLayout, QVBoxLayout, QPushButton, QGridLayout, \
@@ -19,8 +19,8 @@ class Exam(QWidget):  ## 이미지 표시
 
 
         hbox = QHBoxLayout(self)
-        pixmap = QPixmap('best11.PNG')
-        pixmap1 = QPixmap('best11.PNG')
+        pixmap = QPixmap('0_0.PNG')
+        pixmap1 = QPixmap('0_1.PNG')
 
 
         lbl = QLabel(self)
