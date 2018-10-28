@@ -70,7 +70,7 @@ class Window(QWidget):
             QTest.qWait(600)
             self.button[a // 4][a % 4].setText("?")
             self.button[b // 4][b % 4].setText("?")
-
+ 
 
 app = QApplication([])
 ex = Window()
